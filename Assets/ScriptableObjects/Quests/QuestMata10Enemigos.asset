@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64cc26ea45b30e7498b943eed26052f5, type: 3}
+  m_Name: QuestMata10Enemigos
+  m_EditorClassIdentifier: 
+  Nombre: Cazador Principiante
+  ID: Mata10
+  CantidadObjetivo: 10
+  Descripcion: "Los monstruos est\xE1n descontrolados, por favor ayudame a eliminar
+    unos cuantos"
+  RecompensaOro: 15
+  RecompensaExp: 5
+  RecompensaItem:
+    Item: {fileID: 11400000, guid: 0adf02f4408d73245964790e4b5b484e, type: 2}
+    Cantidad: 5
+  CantidadActual: 0
+  QuestCompletado: 0

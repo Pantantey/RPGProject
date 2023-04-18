@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3bbb1151a0f5654fb26c2e707782c71, type: 3}
+  m_Name: PersonajeStats
+  m_EditorClassIdentifier: 
+  "Da\xF1o": 66
+  Defensa: 10
+  Velocidad: 5.4
+  Nivel: 1
+  ExpActual: 78
+  ExpRequeridaSiguienteNivel: 2
+  "PorcentajeCr\xEDtico": 3
+  PorcentajeBloqueo: 0.44
+  Fuerza: 8
+  Inteligencia: 15
+  Destreza: 4
+  PuntosDisponibles: 0
